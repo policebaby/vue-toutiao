@@ -22,5 +22,8 @@
 </script>
 
 <style>
+.test{
+  color: green;
+}
 
 </style>
