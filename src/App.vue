@@ -19,10 +19,5 @@ export default {
 </script>
 
 <style>
-.testfirstpush {
-  color: gray;
-}
-.testsecondpush{
-  background-color: yellow;
-}
+
 </style>
