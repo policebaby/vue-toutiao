@@ -19,7 +19,11 @@ export default {
 </script>
 
 <style>
+<<<<<<< HEAD
 .test{
   color: yellow;
 }
+=======
+  color: gray;
+>>>>>>> refs/remotes/MyTouTiao/main
 </style>
