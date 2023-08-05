@@ -19,4 +19,5 @@ export default {
 </script>
 
 <style>
+  color: gray;
 </style>
