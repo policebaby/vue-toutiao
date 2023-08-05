@@ -23,6 +23,6 @@ export default {
   color: gray;
 }
 .testsecondpush{
-  background-color: red;
+  background-color: yellow;
 }
 </style>
