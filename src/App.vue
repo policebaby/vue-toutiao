@@ -19,4 +19,7 @@ export default {
 </script>
 
 <style>
+.test{
+  color: yellow;
+}
 </style>
