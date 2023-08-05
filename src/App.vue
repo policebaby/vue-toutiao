@@ -22,4 +22,7 @@ export default {
 .testfirstpush {
   color: gray;
 }
+.testsecondpush{
+  background-color: red;
+}
 </style>
